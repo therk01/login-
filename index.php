@@ -16,6 +16,7 @@
             <label for="password">Password:</label>
             <input type="password" name="password" required>
             <input type="submit" name="login" value="Login">
+            <a href="#" style="color: white;">register</a>
         </form>
     </div>
 </body>
